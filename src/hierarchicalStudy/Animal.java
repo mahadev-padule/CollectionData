@@ -5,6 +5,7 @@ public class Animal {
 	public void eat() {
 		
 		System.out.println("Animals eating");
+		System.out.println("This is eat method");
 		
 	}
 	
